@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shraddha Tripathi</h1>
-<h3 align="center">A passionate full-Stack developer from Gr.Noida , India.</h3>
 # 💫 About Me:
 Hi 👋, I'm Shraddha Tripathi
 A passionate Software Engineer from Gr.Noida , India.
